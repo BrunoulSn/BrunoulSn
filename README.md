@@ -1,14 +1,14 @@
 
-<h1 align="center">⚡ Brunão Ronaldo - Full Stack Developer ⚡</h1>
+<h1 align="center">⚡ Bruno, Brunão - Full Stack Developer ⚡</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFEF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%7C+JavaScript+%7C+Spring+Boot+%7C+.NET+%7C+Flutter;Desenvolvedor+focado+em+tecnologia+e+performance;Bem-vindo+ao+meu+universo+de+desenvolvimento+cyberpunk">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFEF&center=true&vCenter=true&width=800&lines=Olá;Aproveite+meu+espaço+de+desenvolvimento;Desenvolvedor+focado+em+transformar+ideias+em+projetos">
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor full stack apaixonado por criar soluções robustas, performáticas e com design responsivo. Minha abordagem mistura precisão técnica com criatividade visual, entregando projetos de alto impacto.
+Sou um desenvolvedor full stack apaixonado por criar soluções.
 
 ---
 
@@ -42,6 +42,7 @@ Consulte meu progresso e aprendizados em [LOGBOOK.md](./LOGBOOK.md).
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoulSn&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoulSn&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunoulSn&show_icons=true&include_all_commits=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoulSn&layout=compact&theme=tokyonight&hide=css,html,shell" height="180px"/>
 </div>
+
