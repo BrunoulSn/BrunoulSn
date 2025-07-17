@@ -16,13 +16,9 @@
 <img src="https://img.shields.io/badge/Flutter-0F0F0F?style=for-the-badge&logo=flutter&logoColor=00FFEF">
 <img src="https://img.shields.io/badge/Bootstrap-0F0F0F?style=for-the-badge&logo=bootstrap&logoColor=00FFEF">
 <img src="https://img.shields.io/badge/MySQL-0F0F0F?style=for-the-badge&logo=mysql&logoColor=00FFEF">
-
-<br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=BrunoulSn&show_icons=true&include_all_commits=true&theme=tokyonight" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoulSn&layout=compact&theme=tokyonight&hide=css,html,shell" height="180px"/>
-
 ---
+<br>
+<br>
 
 <h1>Segue alguns repositórios</h1>
 <p>⇊</p>
