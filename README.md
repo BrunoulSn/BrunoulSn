@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/ZRzuvnZ-yKwAAAAC/rick-and-morty-portal.gif" width="200" alt="Rick and Morty portal"/>
+  <div class="tenor-gif-embed" data-postid="16682581" data-share-method="host" data-aspect-ratio="1.81818" data-width="100%"><a href="https://tenor.com/view/rick-and-morty-rick-morty-portal-gun-portal-gif-16682581"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
-<p align="center"><i>"Science rules, Morty — just like my code"</i></p>
+<p align="center"><i>"Se você brincar um pouco com o código, consegue fazer qualquer coisa soar bem (ou mal)."</i></p>
 
 ---
 
