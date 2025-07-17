@@ -12,13 +12,16 @@
 
 ---
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
+
+
+---
 
 <details>
   <summary><strong>💻 <span style="color:#00FF87">Tecnologias que domino</span></strong></summary>
   <br>
   <div style="border:2px solid #00FF87; padding: 10px; border-radius: 10px;">
-    
+
   <img src="https://img.shields.io/badge/JavaScript-0F0F0F?style=for-the-badge&logo=javascript&logoColor=00FF87">
   <img src="https://img.shields.io/badge/Spring_Boot-0F0F0F?style=for-the-badge&logo=spring-boot&logoColor=00FF87">
   <img src="https://img.shields.io/badge/.NET-0F0F0F?style=for-the-badge&logo=dotnet&logoColor=00FF87">
@@ -35,8 +38,14 @@
   <summary><strong>📈 <span style="color:#00FF87">GitHub Stats</span></strong></summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=BrunoulSn&show_icons=true&include_all_commits=true&theme=tokyonight&icon_color=00FF87&title_color=00FF87&text_color=FFFFFF" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoulSn&layout=compact&theme=tokyonight&hide=css,html,shell&title_color=00FF87&text_color=FFFFFF" height="180px"/>
 </details>
 
 ---
+
+💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚
+
+<p align="center">
+  <strong style="color:#00FF87;">Em constante evolução, um commit por vez 🚀</strong>
+</p>
+
 </div>
