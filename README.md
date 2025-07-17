@@ -1,8 +1,8 @@
 
 <h1 align="center" align-text="center">⚡ Bruno, Brunão - Full Stack Developer ⚡</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFEF&center=true&vCenter=true&width=800&lines=Olá;Aproveite+meu+espaço+de+desenvolvimento;Desenvolvedor+focado+em+transformar+ideias+em+projetos">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFEF&center=true&vCenter=true&width=700&lines=Olá;Aproveite+meu+espaço+de+desenvolvimento;Desenvolvedor+focado+em+transformar+ideias+em+projetos">
+</div>
 
 ---
 
@@ -45,8 +45,4 @@ Consulte meu progresso e aprendizados em [LOGBOOK.md](./LOGBOOK.md).
   <img src="https://github-readme-stats.vercel.app/api?username=BrunoulSn&show_icons=true&include_all_commits=true&theme=tokyonight" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoulSn&layout=compact&theme=tokyonight&hide=css,html,shell" height="180px"/>
 </div>
-
-<p align="center">
-  <img src="https://github.com/BrunoulSn/BrunoulSn/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
