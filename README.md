@@ -1,9 +1,8 @@
 
 <h1 align="center" align-text="center">⚡ Bruno, Brunão - Full Stack Developer ⚡</h1>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFEF&center=true&vCenter=true&width=700&lines=Olá;Aproveite+meu+espaço+de+desenvolvimento;Desenvolvedor+focado+em+transformar+ideias+em+projetos">
-</div>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFEF&center=true&vCenter=true&width=500&lines=Focado+em+transformar+ideias+em+projetos;Bem-vindo+ao+meu+espaço+de+desenvolvimento">
+</p>
 ---
 
 ## 👨‍💻 Sobre mim
