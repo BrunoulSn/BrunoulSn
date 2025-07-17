@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFEF&center=true&vCenter=true&width=500&lines=Focado+em+transformar+ideias+em+projetos;Aproveite+meu+espaço+de+desenvolvimento">
 </p>
 
+<br>
 
 <div align="center">
 
@@ -16,7 +17,8 @@
 <img src="https://img.shields.io/badge/Bootstrap-0F0F0F?style=for-the-badge&logo=bootstrap&logoColor=00FFEF">
 <img src="https://img.shields.io/badge/MySQL-0F0F0F?style=for-the-badge&logo=mysql&logoColor=00FFEF">
 
-
+<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=BrunoulSn&show_icons=true&include_all_commits=true&theme=tokyonight" height="180px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoulSn&layout=compact&theme=tokyonight&hide=css,html,shell" height="180px"/>
 
