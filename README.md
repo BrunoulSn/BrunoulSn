@@ -46,3 +46,7 @@ Consulte meu progresso e aprendizados em [LOGBOOK.md](./LOGBOOK.md).
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoulSn&layout=compact&theme=tokyonight&hide=css,html,shell" height="180px"/>
 </div>
 
+<p align="center">
+  <img src="https://github.com/BrunoulSn/BrunoulSn/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
