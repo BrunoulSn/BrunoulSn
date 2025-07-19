@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#00FF87;">⚡ Bruno, Brunão - Full Stack Developer ⚡</h1>
-
+<div align="center">
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF87&center=true&vCenter=true&width=600&lines=Focado%20em%20transformar%20ideias%20em%20projetos;Aproveite%20meu%20espa%C3%A7o%20de%20desenvolvimento)
-
+</div>
 
 <p align="center"><i>"Se você brincar um pouco com o código, consegue fazer qualquer coisa soar bem (ou mal)."</i></p>
 
