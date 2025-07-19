@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF87&center=true&vCenter=true&width=600&lines=Focado+em+transformar+ideias+em+projetos;Aproveite+meu+espaço+de+desenvolvimento">
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/1wDQu1cJWhUAAAAC/rick-and-morty-portal.gif" width="300" alt="Rick and Morty Portal"/>
-</p>
-
 <p align="center"><i>"Se você brincar um pouco com o código, consegue fazer qualquer coisa soar bem (ou mal)."</i></p>
 
 ---
