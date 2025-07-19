@@ -9,9 +9,9 @@
 
 ---
 <p align="center"><i>"Se você brincar um pouco com o código, consegue fazer qualquer coisa soar bem (ou mal)."</i></p>
+<div align="center" style="margin-bottom: 20px;">
 ---
 
-<div align="center" style="margin-bottom: 20px;">
 <details>
   <summary><strong>💻 <span style="color:#00FF87">Tecnologias que domino</span></strong></summary>
   <br>
