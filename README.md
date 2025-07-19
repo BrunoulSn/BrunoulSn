@@ -6,9 +6,8 @@
 
 
 
-
----
 <p align="center"><i>"Se você brincar um pouco com o código, consegue fazer qualquer coisa soar bem (ou mal)."</i></p>
+
 <div align="center" style="margin-bottom: 20px;">
 ---
 
