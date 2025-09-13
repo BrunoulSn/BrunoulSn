@@ -28,14 +28,6 @@
 
 ---
 
-<details>
-  <summary><strong>📈 <span style="color:#00FF87">GitHub Stats</span></strong></summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoulSn&show_icons=true&include_all_commits=true&theme=tokyonight&icon_color=00FF87&title_color=00FF87&text_color=FFFFFF" height="180px"/>
-</details>
-
----
-
 💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚
 
 <p align="center">
