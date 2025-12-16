@@ -2,7 +2,6 @@
 <section>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"/>
   <h2> Bruno — Full Stack Developer</h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"/>
 </section>
   
 <br/>
@@ -15,13 +14,13 @@
 
 <br/>
 
----
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWtvdjhyaXp0YnBvajNyOGsycTM1YXZocnNiM3J2bGt3YzRkaDZpaCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/a5sAk9ooawuFJyjaTA/giphy.gif">
 
 <p align="center">
   <i>"Se você brincar um pouco com o código, consegue fazer qualquer coisa soar bem (ou mal)."</i>
 </p>
 
----
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWtvdjhyaXp0YnBvajNyOGsycTM1YXZocnNiM3J2bGt3YzRkaDZpaCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/a5sAk9ooawuFJyjaTA/giphy.gif">
 
 <br/>
 
@@ -45,7 +44,10 @@
 <br/>
 
 <section>
-👨🏼‍💻 Vamos Codar?
+<h3>Contato</h3>
+  
+<br/>
+  
 <div align="center"> <a href="https://www.linkedin.com/in/bruno-cristiano-64891b256/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:bruno120505@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
 </section>
 
