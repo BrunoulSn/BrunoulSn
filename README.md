@@ -14,13 +14,13 @@
 
 <br/>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Zndjc4aWMwdWtudHo2ZzV4eHJ2bjUxdmh4NWFtMmc1cHpmZHFkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uqjQ5TJgqE0xzBwsoT/giphy.gif">
+---
 
 <p align="center">
   <i>"Se você brincar um pouco com o código, consegue fazer qualquer coisa soar bem (ou mal)."</i>
 </p>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Zndjc4aWMwdWtudHo2ZzV4eHJ2bjUxdmh4NWFtMmc1cHpmZHFkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uqjQ5TJgqE0xzBwsoT/giphy.gif">
+---
 
 <br/>
 
